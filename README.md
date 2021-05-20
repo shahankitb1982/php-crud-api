@@ -17,8 +17,8 @@ define('DBNAME', 'crud-api');
 
 3. API endpoints
 
-###### HOST = localhost/127.0.0.1
-###### PROJECT_FOLDER_NAME = crud
+###### HOST = localhost / 127.0.0.1
+###### PROJECT_FOLDER_NAME = php-crud-api
 
 http://HOST/PROJECT_FOLDER_NAME/api/get-all-users.php
 
@@ -32,4 +32,4 @@ http://HOST/PROJECT_FOLDER_NAME/api/delete.php?id=YOUR_USER_ID
 
 http://HOST/PROJECT_FOLDER_NAME/api/search.php?q=SEARCH_QUERY_STRING
 
-4. Import POSTMAN collection `Crud-API.postman_collection.json`
+4. Import POSTMAN collection `Crud-API.postman_collection.json` to use API's more efficienty.
